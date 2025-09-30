@@ -1,0 +1,17 @@
+temperature,time,catalyst,solvent,yield
+100,24,Palladium,Toluene,95
+80,12,Nickel,DMF,78
+110,24,Palladium,Toluene,98
+60,48,Palladium,Water,65
+80,24,Nickel,DMF,82
+100,12,Palladium,DMF,91
+90,36,Copper,Toluene,75
+100,24,Nickel,Water,88
+70,12,Palladium,DMF,72
+110,48,Palladium,Toluene,99
+80,24,Palladium,Water,85
+95,18,Nickel,Toluene,89
+100,6,Palladium,DMF,80
+60,24,Copper,Water,55
+120,24,Palladium,Toluene,96
+80,48,Nickel,DMF,84
