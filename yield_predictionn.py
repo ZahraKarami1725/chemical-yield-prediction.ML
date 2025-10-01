@@ -9,7 +9,7 @@ import numpy as np
 # --- 1. Load Data ---
 print("Loading dataset...")
 # The path is relative to the root of the project where you run the script
-data_path = 'NEW FOLDER(3)/suzuki_reaction_dataset.csv' 
+data_path = 'suzuki_reaction_dataset.csv' 
 df = pd.read_csv(data_path)
 
 # --- 2. Feature Engineering & Preprocessing ---
